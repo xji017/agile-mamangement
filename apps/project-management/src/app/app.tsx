@@ -1,5 +1,4 @@
 import styled from '@emotion/styled';
-import NxWelcome from './nx-welcome';
 
 const StyledApp = styled.div`
   // Your style here
@@ -8,7 +7,7 @@ const StyledApp = styled.div`
 export function App() {
   return (
     <StyledApp>
-      <NxWelcome title="project-management" />
+      <p>It works</p>
     </StyledApp>
   );
 }
