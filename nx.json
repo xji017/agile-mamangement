@@ -17,12 +17,7 @@
     "default": {
       "runner": "@nrwl/nx-cloud",
       "options": {
-        "cacheableOperations": [
-          "build",
-          "lint",
-          "test",
-          "e2e"
-        ],
+        "cacheableOperations": ["build", "lint", "test", "e2e"],
         "accessToken": "OWI0MzhlNmMtNDIyZC00ZmY1LTljOTctN2QwNzc4MmMxNDIzfHJlYWQtd3JpdGU="
       }
     }
@@ -51,5 +46,6 @@
       }
     }
   },
-  "defaultProject": "project-management"
+  "defaultProject": "project-management",
+  "plugins": ["@nx-dotnet/core"]
 }
