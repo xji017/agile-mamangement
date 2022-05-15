@@ -26,6 +26,7 @@
     "@nrwl/eslint-plugin-nx": "13.10.4",
     "@nrwl/jest": "13.10.4",
     "@nrwl/linter": "13.10.4",
+    "@nrwl/nest": "^14.1.5",
     "@nrwl/nx-cloud": "latest",
     "@nrwl/react": "13.10.4",
     "@nrwl/web": "13.10.4",
