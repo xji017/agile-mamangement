@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "project-management": "apps/project-management",
+    "project-management-e2e": "apps/project-management-e2e"
+  }
+}
